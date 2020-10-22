@@ -1,1 +1,1 @@
-"# chess.nikober.xyz" 
+# chess.nikober.xyz
